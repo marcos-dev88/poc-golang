@@ -2,7 +2,7 @@
 It's a project with a lot of Golang exercises to improve my knowledge of that language. 
 
 ### Requiriments:
-golang >= 1.15 
+golang >= 1.15.2
 
 
 ### Instructions:

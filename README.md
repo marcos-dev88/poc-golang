@@ -1,4 +1,4 @@
-# Proof of Concept | Golang
+# Proof of Concept ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/MarcosPiesskeDev/poc-golang?color=%2329D6D8&logo=Go&logoColor=%2329D6D8)
 It's a project with a lot of Golang exercises to improve my knowledge of that language. 
 
 ### Requiriments:
